@@ -1,0 +1,9 @@
+ table{
+    border: 2px solid black;
+    width: 150%;
+    /* height: 200px; */
+
+}
+tr > th{
+    border: 1px solid grey;
+}
